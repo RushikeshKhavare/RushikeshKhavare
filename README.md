@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RushikeshKhavare
 - 👀 I’m interested in MERN
-- 🌱 I’m currently learning React js
+- 🌱 I’m currently learning deployment
 - 💞️ I’m looking to collaborate on react projects
 - 📫 rkhavare333@gmail.com
 - 😄 Pronouns: he/him/his
